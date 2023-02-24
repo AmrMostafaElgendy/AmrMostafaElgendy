@@ -19,6 +19,14 @@
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self.
 - I’m currently open for an Intern or a new job opportunity.
+- Proficient in HTML, CSS, and JavaScript
+- Experience with frontend frameworks such as React, Angular, and Vue.js
+- Familiarity with version control systems such as Git
+- Experience with responsive design and cross-browser compatibility
+- Knowledge of web performance optimization and web accessibility
+- Experience with CSS preprocessors such as Sass and Less
+- Experience with task runners such as Gulp and Grunt
+- Familiarity with package managers such as npm and Yarn
 <!-- - Playing CTF's at spare time. -->
 <!-- - Personal website [link](https://www.0xabdulkhalid.ml) -->
  <!-- this is [my resume](https://read.cv/0xabdulkhalid) -->
